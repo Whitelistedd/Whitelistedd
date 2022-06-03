@@ -16,9 +16,9 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./imgs/earth.svg)](https://muhaa.netlify.app)
+[![website](./imgs/earth.svg)](https://muha.vercel.app)
 &nbsp;&nbsp;
-[![website](./imgs/email.svg)](mailto:Volxen@gmail.comy)
+[![website](./imgs/email.svg)](mailto:ismonovmukh@gmail.com)
 
 ### Languages and Tools:
 
