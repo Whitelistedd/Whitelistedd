@@ -1,7 +1,7 @@
 # Hi there, I'm Muha
 
 
-[<img align="left" alt="Visual Studio Code" width="193px" src="./imgs/website.svg" style="padding-right:10px;" />](https://muhaa.netlify.app)
+[<img align="left" alt="Visual Studio Code" width="193px" src="./imgs/website.svg" style="padding-right:10px;" />](https://muha.vercel.app)
 
 <br>
 <br>
