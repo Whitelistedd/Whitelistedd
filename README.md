@@ -1,7 +1,7 @@
 # Hi there, I'm Muha
 
 
-## https://muha.vercel.app
+## https://ismonov.ru
 
 <br>
 <br>
