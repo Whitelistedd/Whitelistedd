@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other people
-- 🥅 2022 Goals: Learn NextJS,React Native,Typescript fully
+- 🥅 2022 Goals: Learn React Native fully
 - ⚡ Fun fact: love to code 24/7 🤣
 
 ### Connect with me:
