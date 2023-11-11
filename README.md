@@ -1,8 +1,5 @@
 # Hi there, I'm Muha
 
-
-## https://ismonov.ru
-
 <br>
 <br>
 
