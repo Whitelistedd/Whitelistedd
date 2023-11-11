@@ -1,4 +1,4 @@
-# Hi there, I'm Muha
+# Hi there
 
 <br>
 <br>
@@ -11,9 +11,6 @@
 - ⚡ Fun fact: love to code 24/7 🤣
 
 ### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./imgs/earth.svg)](https://muha.vercel.app)
 &nbsp;&nbsp;
 [![website](./imgs/email.svg)](mailto:ismonovmukh@gmail.com)
 
