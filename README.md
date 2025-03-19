@@ -1,20 +1,20 @@
-# Hi there
+# Привет
 
 <br>
 <br>
 
-## I'm a Software Developer!
+## Я фронтенд-разработчик!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other people
-- 🥅 2022 Goals: Learn React Native fully
-- ⚡ Fun fact: love to code 24/7 🤣
+- 🌱 Сейчас я изучаю тестирование 🤣
+- 👯 Я хочу сотрудничать с другими людьми
+- 🥅 Цели: полностью изучить React Native
+- ⚡ Интересный факт: люблю кататься на сноуборде и играть в теннис
 
-### Connect with me:
+### Свяжитесь со мной:
 &nbsp;&nbsp;
 [![website](./imgs/email.svg)](mailto:ismonovmukh@gmail.com)
 
-### Languages and Tools:
+### Языки и инструменты:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
