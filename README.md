@@ -1,102 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=0:0f172a,35:38bdf8,70:8b5cf6,100:f472b6&text=Muha&fontColor=ffffff&fontSize=72&animation=fadeIn&fontAlignY=42&desc=Frontend%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Clean%20UI&descAlignY=64&descSize=18" width="100%" alt="Glassmorphic header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0:111827,50:334155,100:0f172a&text=Muha&fontColor=ffffff&fontSize=64&animation=fadeIn&fontAlignY=43&desc=Frontend%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript&descAlignY=65&descSize=17" width="100%" alt="Header" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=900&color=BAE6FD&center=true&vCenter=true&width=720&lines=Designing+clean+frontend+experiences;Building+with+React+and+TypeScript;Learning+React+Native+and+testing;Less+noise%2C+more+polish" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1100&color=CBD5E1&center=true&vCenter=true&width=650&lines=Clean+frontend.+Calm+UI.+Better+details.;Building+with+React+and+TypeScript.;Learning+React+Native+and+testing." alt="Typing animation" />
 
 <br><br>
 
 <a href="mailto:ismonovmukh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ffffff20?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a&color=38bdf8" alt="Email" />
+  <img src="https://img.shields.io/badge/email-ismonovmukh%40gmail.com-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/Whitelistedd">
-  <img src="https://img.shields.io/badge/GitHub-ffffff20?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a&color=8b5cf6" alt="GitHub" />
+  <img src="https://img.shields.io/badge/github-Whitelistedd-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+## About
+
+I’m a frontend developer focused on building clean, modern interfaces that feel simple to use.
+
+Right now I’m improving my React, TypeScript, testing, and React Native skills — with a focus on making projects more polished and reliable.
+
+## What I work with
+
+Instead of a huge wall of icons, here’s the stack I actually want to be known for:
+
+```txt
+Frontend      React · TypeScript · JavaScript
+Styling       CSS · Sass · Tailwind
+Frameworks    Next.js · React Native
+Backend       Node.js · MongoDB
+Workflow      Git · GitHub · VS Code
+```
+
+## What I like building
 
 <table>
   <tr>
-    <td width="55%">
-      <h2>🪟 About me</h2>
-      <p>
-        I’m a frontend developer focused on building interfaces that feel clean,
-        modern, and easy to use. I like turning ideas into polished web experiences
-        with React, TypeScript, and strong UI details.
-      </p>
-      <p>
-        Right now, I’m improving my testing skills and learning React Native so I can
-        build better, more reliable apps across web and mobile.
-      </p>
+    <td width="50%">
+      <h3>Clean interfaces</h3>
+      <p>Layouts that are easy to understand, responsive, and not over-designed.</p>
     </td>
-    <td width="45%">
-      <h2>✨ Current focus</h2>
-      <ul>
-        <li>⚛️ React + TypeScript</li>
-        <li>🎨 Clean responsive UI</li>
-        <li>📱 React Native</li>
-        <li>🧪 Testing basics</li>
-        <li>🚀 Better project structure</li>
-      </ul>
+    <td width="50%">
+      <h3>Reusable components</h3>
+      <p>React components that keep projects easier to build and maintain.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Better quality</h3>
+      <p>Learning testing so projects work more reliably, not just visually.</p>
+    </td>
+    <td width="50%">
+      <h3>Mobile direction</h3>
+      <p>Growing toward React Native and polished mobile app experiences.</p>
     </td>
   </tr>
 </table>
 
-</div>
-
-<br>
+## A small snapshot
 
 <div align="center">
 
-## Frosted stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,git,github,vscode&theme=dark&perline=6" alt="Tech stack" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## Glass cards
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🎨 UI polish</h3>
-      <p>Clean layouts, soft details, and interfaces that feel smooth.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚛️ Components</h3>
-      <p>Reusable React pieces with simple, maintainable structure.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>📱 Mobile path</h3>
-      <p>Learning React Native to bring frontend ideas to mobile.</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## GitHub snapshot
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Whitelistedd&show_icons=true&theme=transparent&hide_border=true&title_color=bae6fd&text_color=e5e7eb&icon_color=c084fc&ring_color=38bdf8&border_radius=18" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitelistedd&layout=compact&theme=transparent&hide_border=true&title_color=bae6fd&text_color=e5e7eb&border_radius=18" alt="Top languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitelistedd&layout=compact&theme=transparent&hide_border=true&title_color=e2e8f0&text_color=cbd5e1&border_radius=14" alt="Top languages" />
 
 <br><br>
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Whitelistedd&bg_color=00000000&color=bae6fd&line=8b5cf6&point=38bdf8&area=true&area_color=38bdf8&hide_border=true&radius=16" alt="Activity graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=Whitelistedd&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" alt="GitHub trophies" />
 
 </div>
 
@@ -104,16 +78,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=3000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=560&lines=Open+to+collaboration+and+cool+frontend+ideas" alt="Collaboration typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3200&pause=1400&color=94A3B8&center=true&vCenter=true&width=520&lines=Open+to+collaboration+and+frontend+ideas." alt="Footer typing animation" />
 
 <br><br>
 
 <a href="mailto:ismonovmukh@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20build%20something-38bdf8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="Email me" />
+  <img src="https://img.shields.io/badge/Contact%20me-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" />
 </a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:f472b6,50:8b5cf6,100:38bdf8" width="100%" alt="Footer" />
 
 </div>
